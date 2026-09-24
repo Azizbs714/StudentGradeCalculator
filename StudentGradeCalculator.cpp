@@ -6,7 +6,10 @@ double calculateAverage(int grade1, int grade2, int grade3)
 {
     return (grade1 + grade2 + grade3) / 3.0;
 }
-
+int Add(int number1, int number2)
+{
+    return number1 + number2;
+}
 int main()
 {
     string studentName = "Azizos";
